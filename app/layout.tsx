@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Harsh Patel — VisionX Marketing",
+  title: "Harsh Patel — Marketing VisionX",
   description:
     "Brand strategist & digital designer. Logo design, branding, social media creatives, WordPress & e-commerce websites. Based in Gujarat, India.",
   openGraph: {
-    title: "Harsh Patel — VisionX Marketing",
+    title: "Harsh Patel — Marketing VisionX",
     description: "Premium branding, design & web solutions from Gujarat, India.",
     url: "https://marketingvisionx.com",
-    siteName: "VisionX Marketing",
+    siteName: "Marketing VisionX",
     type: "website",
   },
 };

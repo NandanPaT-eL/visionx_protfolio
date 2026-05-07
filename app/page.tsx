@@ -136,8 +136,8 @@ export default function Home() {
 
       {/* NAV */}
       <nav className="nav" role="navigation">
-        <a className="nav-logo" href="#top" aria-label="VisionX Marketing home">
-          <Image src="/logo-light.png" alt="VisionX Marketing" width={140} height={34} style={{objectFit:"contain"}} priority />
+        <a className="nav-logo" href="#top" aria-label="Marketing VisionX home">
+          <Image src="/logo-light.png" alt="Marketing VisionX" width={140} height={34} style={{objectFit:"contain"}} priority />
         </a>
         <ul className="nav-links">
           {["About","Services","Work","Contact"].map(l => (
@@ -174,7 +174,7 @@ export default function Home() {
           </h1>
 
           <p className="hero-body">
-            Founder of <strong>VisionX Marketing</strong> — a design &amp; development
+            Founder of <strong>Marketing VisionX</strong> — a design &amp; development
             studio in Gujarat, India. I craft identities, experiences and websites
             that make brands impossible to ignore.
           </p>
@@ -228,7 +228,7 @@ export default function Home() {
                 <span className="brkt brkt-tr" />
                 <span className="brkt brkt-bl" />
                 <span className="brkt brkt-br" />
-                <Image src="/logo-light.png" alt="VisionX Marketing" width={280} height={90} style={{objectFit:"contain"}} />
+                <Image src="/logo-light.png" alt="Marketing VisionX" width={280} height={90} style={{objectFit:"contain"}} />
               </div>
 
               <div className="about-contact-row">
@@ -253,7 +253,7 @@ export default function Home() {
                 Design That<br /><em>Means Business</em>
               </h2>
               <p className="about-p reveal d2" style={{marginTop:28}}>
-                I'm <strong>Harsh Patel</strong>, founder of VisionX Marketing — a
+                I'm <strong>Harsh Patel</strong>, founder of Marketing VisionX — a
                 design and development studio based in Anand, Gujarat. I partner with
                 startups and growing businesses to build brands that command attention
                 and websites that convert visitors into customers.
@@ -368,7 +368,7 @@ export default function Home() {
               <h2 className="s-title reveal d1">The Difference<br /><em>You'll Feel</em></h2>
               <p className="s-sub reveal d2">
                 I don't just deliver files — I deliver outcomes. Here's what makes
-                working with VisionX Marketing genuinely different.
+                working with Marketing VisionX genuinely different.
               </p>
               <a href="#contact" className="btn-fill reveal d3" style={{marginTop:8, display:"inline-flex", width:"fit-content"}}>
                 Start a Project
@@ -496,9 +496,9 @@ export default function Home() {
       {/* ── FOOTER ── */}
       <footer className="footer">
         <a className="footer-logo" href="#top" aria-label="Back to top">
-          <Image src="/logo-light.png" alt="VisionX Marketing" width={110} height={28} style={{objectFit:"contain"}} />
+          <Image src="/logo-light.png" alt="Marketing VisionX" width={110} height={28} style={{objectFit:"contain"}} />
         </a>
-        <p className="footer-copy">© {new Date().getFullYear()} VisionX Marketing · Harsh Patel · Anand, Gujarat, India</p>
+        <p className="footer-copy">© {new Date().getFullYear()} Marketing VisionX · Harsh Patel · Anand, Gujarat, India</p>
         <ul className="footer-links">
           <li><a href="#about">About</a></li>
           <li><a href="#services">Services</a></li>

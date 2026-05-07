@@ -1,4 +1,4 @@
-# VisionX Marketing — Portfolio v2
+# Marketing VisionX — Portfolio v2
 > Next.js 14 · TypeScript · Dark Editorial Luxury Theme · Custom Cursor
 
 ---
@@ -141,5 +141,5 @@ const submit = async (e: React.FormEvent) => {
 
 ---
 
-*VisionX Marketing · Harsh Patel · Anand, Gujarat, India*
+*Marketing VisionX · Harsh Patel · Anand, Gujarat, India*
 # visionx_protfolio
