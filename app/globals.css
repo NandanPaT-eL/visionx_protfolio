@@ -1160,3 +1160,8 @@ body::after {
   .reveal { opacity: 1; transform: none; transition: none; }
   .ticker-track { animation-play-state: paused; }
 }
+
+.ac-val a {
+  color: inherit;
+  text-decoration: none;
+}
